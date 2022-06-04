@@ -1,0 +1,9 @@
+{
+    "name": "Baldorio",
+    "version": "0.1.0",
+    "title": "Baldorio",
+    "author": "Nicolas Baldassarri",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Mod for Baldorio ecosystem"
+  }
